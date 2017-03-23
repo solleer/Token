@@ -1,0 +1,8 @@
+{
+    "name": "solleer/token",
+    "license": "MIT",
+    "homepage": "https://github.com/solleer/Token",
+    "autoload": {
+    	"classmap": ["src/"]
+    }
+}
